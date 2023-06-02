@@ -6,7 +6,7 @@ import py3Dmol
 from stmol import showmol
 
 st.sidebar.markdown('''
-    [![GitHub](https://badgen.net/badge/icon/GitHub?icon=github&color=black&label)](https://github.com/napoles-uach/stmol/blob/master/pages/2_Demo%20stmol.py)
+    [![GitHub](https://badgen.net/badge/icon/GitHub?icon=github&color=black&label)](https://github.com/vatsn/stmol/tree/master)
     ''')  
 ### Step 2) Streamlit
 
